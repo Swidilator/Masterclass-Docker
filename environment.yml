@@ -1,0 +1,9 @@
+name: masterclass
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - scikit-learn
